@@ -1,0 +1,128 @@
+
+     
+    
+
+
+#nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color:brown;
+    color: white;
+}
+
+img{
+    width: 1200px;
+    height : 300px;
+    margin-left: 40px;
+}
+
+h1{
+    text-align: center;
+    border-radius: 10px;
+    background-color: burlywood;
+}
+
+h2{
+    text-align: center;
+}
+
+#vida{
+    width: 40px;
+    height: 40px;
+}
+
+h3{
+    margin-left: 25px;
+}
+
+#vidaa{
+    width: 400px;
+    height: 150px;
+}
+
+#ee{
+    margin-right: 500px;
+    margin-top: 100px;
+}
+
+#e{
+    margin-left: 200px;
+}
+
+
+
+
+footer{
+padding-top: 500px;
+    border-radius: 10px;
+
+background-color: white;
+    }
+
+    #footer{
+        padding-top: 2px;
+        border-radius: 20px;
+       text-align: center;
+        background-color: rosybrown;
+    }
+
+
+    #prix{
+        width: 100px;
+        height: 40px;
+        border-radius: 10px;
+        margin-left: 60px;
+    }
+
+    #picc{
+        width: 350px;
+        height: 300px;
+    }
+
+    #cont{
+        padding-top: 100px;
+    }
+
+    #bb{
+
+        background-color:white;
+    }
+
+    #footer2{
+        margin-top: 200px;
+        border-radius: 50px;
+       text-align: center;
+        background-color: rosybrown;
+    
+    }
+
+
+    #app{
+        width: 400px;
+        height: 400px;
+    }
+
+    #imm{
+        width: 1200px;
+        height: 300px;
+        margin-left: 200px;
+    }
+
+    #imm1{
+        width: 400px;
+        height: 300px;
+    }
